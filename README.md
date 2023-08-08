@@ -1,2 +1,2 @@
-# Shirley Hung
-A resume for me, Shirley, with link [here](http://shirleyhungwork.github.io/Resume/shirleyhung.html) .
+# Sam Wong
+A resume for me, Sam, with link [here](http://samwong1109.github.io/Resume/samwong.html) .
